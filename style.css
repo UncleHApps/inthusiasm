@@ -50,7 +50,7 @@ p { font-size: 1.1rem; line-height: 1.8; color: #555;} /* Increased */
     position: relative;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: normal;
     text-align: center;
     color: white;
 }
